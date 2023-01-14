@@ -27,6 +27,9 @@ Run the program:
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+This repository is not under any license, if you want to use or redistribute it please contact the author or the owner of the repository to get their permission.
+
 ## Acknowledgments
 C Standard library
 
